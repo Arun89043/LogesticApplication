@@ -1,0 +1,9 @@
+node_modules/
+frontend/my-dashboard/node_modules/
+my-dashboard/node_modules/
+
+__pycache__/
+*.pyc
+
+.env
+.vscode/
